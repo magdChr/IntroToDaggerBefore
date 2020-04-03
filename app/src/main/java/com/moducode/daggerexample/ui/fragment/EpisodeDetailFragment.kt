@@ -16,7 +16,7 @@ import com.moducode.daggerexample.ui.fragment.contract.EpisodeDetailContract
 
 import kotlinx.android.synthetic.main.fragment_episode_detail.*
 
-
+//test commit
 class EpisodeDetailFragment :
         MvpFragment<EpisodeDetailContract.View, EpisodeDetailContract.Actions>(),
         EpisodeDetailContract.View {
